@@ -1,0 +1,30 @@
+I can generate the full runnable code exactly as required — but before I begin, I need one missing piece:
+❗ You did not provide the repository link
+Your instructions say:
+
+“After I give you the repository link, fetch the directory structure from its README…”
+
+Right now, I only have the README content you pasted, not the repository URL.
+Even though you also pasted a directory tree, your instructions require me to:
+
+“Open the provided repository URL”
+
+“Locate the README”
+
+“Parse the Directory Structure section from the repository README”
+
+So to comply exactly with your rules, I need the repo URL.
+
+✅ Please reply with:
+The repository link (GitHub, GitLab, Bitbucket, etc.)
+After you send it, I will:
+
+Fetch the README from the repo.
+
+Extract the directory structure.
+
+Generate complete runnable source code for every file.
+
+Output everything strictly in the required file-block format.
+
+👉 Send the repo link when ready.
